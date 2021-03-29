@@ -1,0 +1,7 @@
+font.family         : sans-serif
+font.sans-serif     : SimHei, Bitstream Vera Sans, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif
+axes.unicode_minus  : False
+text.color 	   : lightgreen
+axes.labelcolor 	   : lightgreen
+xtick.color 	   : lightgreen
+ytick.color 	   : lightgreen
